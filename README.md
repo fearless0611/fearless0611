@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fearless0611
 - 👀 I’m interested in ... python, c, Java, Powershell
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ... nothing for now, as iam just a beginner
+- 💞️ I’m looking to collaborate on nothing, for now, as iam just a beginner
 
 
 <!---
